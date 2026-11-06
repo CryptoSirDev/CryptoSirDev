@@ -22,9 +22,17 @@ A community-built browser wallet research project using **React, TypeScript, Vit
 
 > ⚠️ **Research prototype only.** Not audited, not ready for real funds, and does not support signing or sending transactions. This is an independent community experiment, not the official FloofyChain wallet.
 
-### 💧 FloofyChain Faucet
+### 💧 [FloofyChain Faucet](https://github.com/CryptoSirDev/floofy-faucet)
 
-A faucet project created to support the FloofyChain community, with hands-on experience in web hosting, backend services and deployment troubleshooting.
+A community faucet I built to support FloofyChain, now evolving into a more security-focused service spanning **Node.js/Express, Render, a VPS, Nginx, Cloudflare and PostgreSQL**.
+
+- 🛡️ Implemented a trusted VPS claim ingress with **HMAC-SHA256-signed client IP identity** and timestamp validation
+- 🌐 Configured HTTPS reverse proxying, cross-origin browser requests (CORS) and trusted-proxy IP handling
+- 🧪 Added automated security tests and GitHub Actions checks for payout safety and PostgreSQL claim integration
+- 🔁 Exploring recoverable payment design, durable journals and conservative crash/restart handling
+- 📚 Documenting architecture, deployment safeguards and security boundaries in the project README
+
+> 🔒 **Current status:** Faucet payouts remain paused while the secure gateway migration and end-to-end validation continue. Passing tests do not mean live payouts are enabled or audited.
 
 ### 🌐 BoskaCoin Website
 
