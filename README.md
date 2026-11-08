@@ -2,37 +2,36 @@
 
 ### 💻 Developer | 🔗 Crypto Enthusiast | 🐹 FloofyChain Community Contributor
 
-Welcome to my little corner of GitHub!
+Welcome to my corner of GitHub!
 
-I'm a tech enthusiast from Portugal 🇵🇹 with a passion for cryptocurrency, blockchain technology, open-source software, and learning by building.
+I'm a tech enthusiast from Portugal 🇵🇹 with a passion for cryptocurrency, blockchain technology, open-source software and learning by building.
 
-My programming journey started years ago with **C++ and Visual Basic**, exploring how software works and experimenting with code. After a long break, I'm back to doing what I enjoy: **building things, solving problems, and learning along the way!**
+My programming journey started years ago with **C++ and Visual Basic**. After a long break, I returned to what I enjoy most: building useful things, solving problems and learning along the way.
 
 ## 🚀 Featured Projects
+
+### 💧 [FloofyChain Faucet](https://github.com/CryptoSirDev/floofy-faucet)
+
+A community faucet built to support the FloofyChain ecosystem.
+
+- 💸 Live 10 FLOOF claim payouts, with transaction IDs verifiable on FloofyScan
+- 🛡️ Trusted claim ingress and a restricted VPS RPC gateway
+- 🗄️ PostgreSQL claim reservations and a SQLite payout journal
+- 🔔 Private Discord low-balance alerts, monitored every five minutes
+- 🔐 Dedicated payout wallet kept separate from my encrypted personal wallet
+
+**Live service:** https://faucet.floofychain.com/
 
 ### 🐹 [FloofyChain Web Wallet — Experimental Prototype](https://github.com/CryptoSirDev/floofy-web-wallet)
 
 A community-built browser wallet research project using **React, TypeScript, Vite and Node.js**.
 
-- 🔑 Experimental offline FloofyChain address generation and WIF recovery
-- 🔐 Password-protected, encrypted local test-wallet storage
-- 📝 Multi-step wallet creation with WIF backup verification
-- 📊 Browser wallet dashboard, kept separate from connected FloofyChain Core wallet data
-- 🧪 Offline address/WIF compatibility tests and read-only Core integration
+- 🔑 Experimental address generation and WIF recovery flows
+- 🔐 Password-protected local vault and recovery phrase controls
+- 📝 Wallet creation/import flows with backup verification
+- 📊 Dashboard, receive, send-preview and transaction-history interface
 
-> ⚠️ **Research prototype only.** Not audited, not ready for real funds, and does not support signing or sending transactions. This is an independent community experiment, not the official FloofyChain wallet.
-
-### 💧 [FloofyChain Faucet](https://github.com/CryptoSirDev/floofy-faucet)
-
-A community faucet I built to support FloofyChain, now evolving into a more security-focused service spanning **Node.js/Express, Render, a VPS, Nginx, Cloudflare and PostgreSQL**.
-
-- 🛡️ Implemented a trusted VPS claim ingress with **HMAC-SHA256-signed client IP identity** and timestamp validation
-- 🌐 Configured HTTPS reverse proxying, cross-origin browser requests (CORS) and trusted-proxy IP handling
-- 🧪 Added automated security tests and GitHub Actions checks for payout safety and PostgreSQL claim integration
-- 🔁 Exploring recoverable payment design, durable journals and conservative crash/restart handling
-- 📚 Documenting architecture, deployment safeguards and security boundaries in the project README
-
-> 🔒 **Current status:** Faucet payouts remain paused while the secure gateway migration and end-to-end validation continue. Passing tests do not mean live payouts are enabled or audited.
+> ⚠️ Research prototype only. It has not been audited and should not be used to store real funds. It is an independent community experiment, not the official FloofyChain wallet.
 
 ### 🌐 BoskaCoin Website
 
@@ -40,38 +39,34 @@ Experimenting with cryptocurrency website development, design and open-source pr
 
 ## 🐾 FloofyChain Community
 
-Beyond coding, I help the FloofyChain community through **Discord moderation**, the project's **official X account**, and practical tools such as the faucet and wallet prototype.
+I contribute to the FloofyChain community through Discord moderation, managing content for the project's official X account, and building practical community tools such as the faucet and wallet prototype.
 
-I enjoy contributing where I can, collaborating with other builders, and helping open-source crypto communities grow.
+I enjoy collaborating with other builders and helping open-source crypto communities grow.
 
 ## 🧠 My Tech Journey
 
-**Then:** C++ • Visual Basic • Software Exploration
+**Earlier:** C++ • Visual Basic • Software exploration
 
-**Now:** JavaScript • TypeScript • React • Node.js • HTML • CSS • GitHub • Blockchain Research
+**Working with:** JavaScript • TypeScript • React • Node.js • HTML • CSS • GitHub • Blockchain tools
 
-**Next:** Keep learning, improving security awareness, contributing to open source, and turning ideas into useful applications.
+**Always learning:** Backend development • API integration • infrastructure • application security • blockchain architecture
 
 ## 🎯 My Goals
 
 - Build useful tools for cryptocurrency communities.
-- Improve my programming and web-development skills.
+- Keep improving my programming and web-development skills.
 - Explore blockchain protocols and wallet architecture responsibly.
 - Share projects and collaborate with other developers.
-- Keep experimenting, learning, and improving.
+- Keep experimenting, learning and improving.
 
 ## 💬 A Little About Me
 
 I believe the best way to learn is by doing.
 
-I'm not here pretending to know everything. I'm here to explore, make mistakes, solve problems, and keep improving.
-
-Every project is a new challenge, and every challenge is an opportunity to learn something new.
+I'm not here pretending to know everything. I'm here to explore, make mistakes, solve problems and keep improving.
 
 **Small steps. Big ideas. Endless curiosity.** 🚀
 
 ---
 
 ⭐ Thanks for visiting my profile!
-
-*The journey is just getting started...*
