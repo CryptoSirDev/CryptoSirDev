@@ -33,6 +33,20 @@ A community-built browser wallet research project using **React, TypeScript, Vit
 
 > ⚠️ Research prototype only. It has not been audited and should not be used to store real funds. It is an independent community experiment, not the official FloofyChain wallet.
 
+### 🖥️ FloofyWallet Desktop — Python/PyQt5 (Work in Progress)
+
+A lightweight, community-developed desktop wallet for the FloofyChain ecosystem, built using **Python and PyQt5**, with a focus on security, simplicity and native Windows usability.
+
+- 🐍 Native desktop application using Python and PyQt5
+- 🔑 Wallet creation and import workflows
+- 🔐 Local wallet protection and key management
+- 💰 Balance, receive and transaction preview interfaces
+- 🛡️ UTXO validation and transaction safety checks
+- 🧪 Automated regression tests for wallet functionality
+- 🚧 Offline transaction signing and broadcasting under development
+
+> ⚠️ **Under active development.** Transaction broadcasting is not yet enabled. The application has not been audited and should not be used to store real funds. This is an independent community project.
+
 ### 🌐 BoskaCoin Website
 
 Experimenting with cryptocurrency website development, design and open-source projects.
@@ -47,7 +61,7 @@ I enjoy collaborating with other builders and helping open-source crypto communi
 
 **Earlier:** C++ • Visual Basic • Software exploration
 
-**Working with:** JavaScript • TypeScript • React • Node.js • HTML • CSS • GitHub • Blockchain tools
+**Working with:** Python • PyQt5 • JavaScript • TypeScript • React • Node.js • HTML • CSS • GitHub • Blockchain tools
 
 **Always learning:** Backend development • API integration • infrastructure • application security • blockchain architecture
 
